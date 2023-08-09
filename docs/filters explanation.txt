@@ -1,0 +1,5 @@
+INC_Opened_Higher_30_Days: Se for uma Task/INC Open e estiver criada a mais de 30 dias.
+(Da pra fazer um filtro de Tasks que ja foram criadas a mais de 30 dias e pegar apenas as que foram abertas, é equivalente)
+
+Resolved_Time_Higher_30_Days: Quando passou mais de 30 dias para resolver desde a data de criacao (nao necessariamente esta Open)
+
